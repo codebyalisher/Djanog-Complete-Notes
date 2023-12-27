@@ -359,3 +359,34 @@ on large project add t the files test-module-py, test-views.py
 For implementation: Create model in test.py write test case-
 
 Further Look out the documentation.
+
+1.  **Configuration:**
+    -   **Definition:** Configuration refers to the settings, parameters, or options that determine how a system or application behaves.
+    -   **Example:** Setting up database connection strings, specifying logging levels, or defining environment variables are part of configuration.
+2.  **Integration:**
+    -   **Definition:** Integration involves combining different components or systems to work together as a unified whole. It often implies the seamless interaction between these components.
+    -   **Example:** Integrating a payment gateway into an e-commerce website or connecting a third-party API to a web application.
+3.  **Dependency:**
+    -   **Definition:** A dependency is a relationship between two modules or components where one relies on the functionality provided by the other.
+    -   **Example:** In software development, a module may depend on a library or external package to perform specific tasks.
+4.  **Package:**
+    -   **Definition:** A package is a collection of related code or functionalities bundled together for easy distribution, installation, and reuse.
+    -   **Example:** In programming, a package might contain a set of classes or functions that provide specific features.
+5.  **Injecting:**
+    -   **Definition:** Injecting typically refers to the process of providing a dependency to a component or module. Dependency injection is a common technique used in software development to improve modularity and testability.
+    -   **Example:** Injecting a database connection object into a service class rather than having the service class create the connection itself.
+6.  **Embedding:**
+    -   **Definition:** Embedding involves incorporating one component or object into another. It often implies a more intimate connection between the embedded component and its host.
+    -   **Example:** Embedding a video player into a web page or embedding an image within a document.
+
+In summary:
+
+-   **Configuration** deals with settings and options.
+-   **Integration** involves combining different components or systems.
+-   **Dependency** is a relationship where one module relies on another.
+-   **Package** is a collection of related code or functionalities.
+-   **Injecting** refers to providing dependencies to components.
+-   **Embedding** involves incorporating one component into another.
+
+
+
